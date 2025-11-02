@@ -8,7 +8,7 @@ This is my personal fork of [DWL](https://codeberg.org/dwl/dwl) with patches and
 - [dwl default bar] (patches/bar.patch)
 - [system tray for the bar] (patches/bar-systray-0.7.patch)
 
-#Configuration
+# Configuration
 - changed some key bindings (volume, brightnesscontrol using brightnessctl and window management)
 - terminal [foot terminal] (https://codeberg.org/dnkl/foot)
 - menu - [wmenu] (https://codeberg.org/adnano/wmenu/)
