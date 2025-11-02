@@ -2,7 +2,7 @@
 
 This is my personal fork of [DWL](https://codeberg.org/dwl/dwl) with patches and configuration.
 
-# [Patches](https://codeberg.org/dwl/dwl-patches)
+# [Patches Applied](https://codeberg.org/dwl/dwl-patches)
 - [always center patch](patches/alwayscenter.patch)
 - [application auto start](patches/autostart.patch)
 - [dwl default bar](patches/bar.patch)
