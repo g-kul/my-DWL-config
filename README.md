@@ -17,7 +17,7 @@ This is my personal fork of [DWL](https://codeberg.org/dwl/dwl) with patches and
 - font used - [Terminus  bitmap](http://terminus-font.sourceforge.net/) and [Terminus-nerd-font](https://github.com/ryanoasis/nerd-fonts)
 - colors - tokyo night 
 
-# Screenshot(wallpaper/screenshot.png)
+# [Screenshot](wallpaper/screenshot.png)
 
 
 
